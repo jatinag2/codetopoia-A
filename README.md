@@ -1,1 +1,1 @@
-# codetopoia-A
+# rock mine prediction-A
